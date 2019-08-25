@@ -1,2 +1,3 @@
 # DarkFb
-kontol jangan di salah gunakan ya cok
+noticed : jangan di salah gunakan ya
+
